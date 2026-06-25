@@ -6,3 +6,4 @@ Learning Markdown.
 Working with commits
 Git command learned today:
 git status
+Created repository
