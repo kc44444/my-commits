@@ -10,3 +10,4 @@ Created repository
 Learned how commits work
 Learned repository structure
 Practiced editing README
+Learned Markdown headings
