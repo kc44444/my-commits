@@ -8,3 +8,4 @@ Git command learned today:
 git status
 Created repository
 Learned how commits work
+Learned repository structure
