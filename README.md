@@ -12,3 +12,4 @@ Learned repository structure
 Practiced editing README
 Learned Markdown headings
 Updated learning log
+Added Git basics
