@@ -13,3 +13,4 @@ Practiced editing README
 Learned Markdown headings
 Updated learning log
 Added Git basics
+Learned git status
