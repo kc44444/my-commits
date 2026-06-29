@@ -15,3 +15,4 @@ Updated learning log
 Added Git basics
 Learned git status
 Learned git add
+Learned git commit
