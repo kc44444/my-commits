@@ -17,3 +17,4 @@ Learned git status
 Learned git add
 Learned git commit
 Learned git push
+Added Linux notes
