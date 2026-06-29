@@ -19,3 +19,4 @@ Learned git commit
 Learned git push
 Added Linux notes
 Learned pwd command
+Learned ls command
