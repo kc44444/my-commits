@@ -25,3 +25,4 @@ Added terminal notes
 Updated command references
 Added GitHub tips
 Learned branches
+Learned pull requests
