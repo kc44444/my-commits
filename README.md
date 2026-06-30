@@ -24,3 +24,4 @@ Learned cd command
 Added terminal notes
 Updated command references
 Added GitHub tips
+Learned branches
