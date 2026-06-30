@@ -26,3 +26,4 @@ Updated command references
 Added GitHub tips
 Learned branches
 Learned pull requests
+Updated documentation
