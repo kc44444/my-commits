@@ -22,3 +22,4 @@ Learned pwd command
 Learned ls command
 Learned cd command
 Added terminal notes
+Updated command references
