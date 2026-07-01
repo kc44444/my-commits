@@ -33,3 +33,4 @@ Added project ideas
  Updated project roadmap
 Added testing notes
 Learned repository settings
+Added development notes
