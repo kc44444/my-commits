@@ -31,3 +31,4 @@ Added workflow notes
 Learned open source basics
 Added project ideas
  Updated project roadmap
+Added testing notes
