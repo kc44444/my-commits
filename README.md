@@ -29,3 +29,4 @@ Learned pull requests
 Updated documentation
 Added workflow notes
 Learned open source basics
+Added project ideas
