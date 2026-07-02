@@ -34,3 +34,4 @@ Added project ideas
 Added testing notes
 Learned repository settings
 Added development notes
+Learned issue tracking
