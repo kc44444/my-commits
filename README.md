@@ -36,3 +36,4 @@ Learned repository settings
 Added learning resources
 Added development notes
 Learned issue tracking
+Updated README structure
