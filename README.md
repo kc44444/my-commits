@@ -30,8 +30,9 @@ Updated documentation
 Added workflow notes
 Learned open source basics
 Added project ideas
- Updated project roadmap
+Updated project roadmap
 Added testing notes
 Learned repository settings
+Added learning resources
 Added development notes
 Learned issue tracking
