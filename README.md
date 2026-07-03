@@ -39,3 +39,4 @@ Learned issue tracking
 Updated README structure
 Added useful links
 Updated README structure
+Learned collaboration basics
