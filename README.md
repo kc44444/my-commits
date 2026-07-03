@@ -40,3 +40,4 @@ Updated README structure
 Added useful links
 Updated README structure
 Learned collaboration basics
+Updated learning journal
