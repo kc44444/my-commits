@@ -43,3 +43,4 @@ Learned collaboration basics
 Updated learning journal
 Added deployment notes
 Learned web basics
+Added HTML notes
