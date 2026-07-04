@@ -44,3 +44,4 @@ Updated learning journal
 Added deployment notes
 Learned web basics
 Added HTML notes
+Learned HTML headings
