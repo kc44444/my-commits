@@ -45,3 +45,4 @@ Added deployment notes
 Learned web basics
 Added HTML notes
 Learned HTML headings
+Learned HTML paragraphs
