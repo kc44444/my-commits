@@ -41,3 +41,4 @@ Added useful links
 Updated README structure
 Learned collaboration basics
 Updated learning journal
+Added deployment notes
