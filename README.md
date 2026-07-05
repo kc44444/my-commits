@@ -47,3 +47,4 @@ Added HTML notes
 Learned HTML headings
 Learned HTML paragraphs
 Added CSS notes
+Learned CSS selectors
