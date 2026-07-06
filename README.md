@@ -48,3 +48,4 @@ Learned HTML headings
 Learned HTML paragraphs
 Added CSS notes
 Learned CSS selectors
+Added JavaScript notes
