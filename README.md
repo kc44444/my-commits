@@ -49,3 +49,4 @@ Learned HTML paragraphs
 Added CSS notes
 Learned CSS selectors
 Added JavaScript notes
+Learned variables
