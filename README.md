@@ -51,3 +51,4 @@ Learned CSS selectors
 Added JavaScript notes
 Learned variables
 Learned functions
+Added coding examples
