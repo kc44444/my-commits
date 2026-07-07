@@ -52,3 +52,4 @@ Added JavaScript notes
 Learned variables
 Learned functions
 Added coding examples
+Updated examples
