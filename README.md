@@ -57,3 +57,4 @@ Reached 50 commits
 Added blockchain notes
 Learned wallet basics
 Added Base ecosystem notes
+Updated Base notes
