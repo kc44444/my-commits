@@ -58,3 +58,4 @@ Added blockchain notes
 Learned wallet basics
 Added Base ecosystem notes
 Updated Base notes
+Added testnet observations
