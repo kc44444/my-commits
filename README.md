@@ -59,3 +59,4 @@ Learned wallet basics
 Added Base ecosystem notes
 Updated Base notes
 Added testnet observations
+Updated learning progress
