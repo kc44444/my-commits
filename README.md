@@ -63,3 +63,4 @@ Updated learning progress
 Added node operation notes
 Learned server basics
 Added VPS notes
+Added VPS notes
