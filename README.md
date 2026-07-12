@@ -66,3 +66,4 @@ Added VPS notes
 Added VPS notes
 Updated VPS guide
 Added security notes
+Learned SSH basics
