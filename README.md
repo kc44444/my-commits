@@ -69,3 +69,4 @@ Added security notes
 Learned SSH basics
 Added monitoring notes
 Updated documentation
+Added troubleshooting notes
