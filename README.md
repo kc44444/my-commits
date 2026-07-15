@@ -71,3 +71,4 @@ Added monitoring notes
 Updated documentation
 Added troubleshooting notes
 Learned log analysis
+Added GitHub workflow notes
