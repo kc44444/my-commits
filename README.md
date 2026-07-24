@@ -75,3 +75,4 @@ Added GitHub workflow notes
 Updated research notes
 Added automation ideas
 Learned scripting basics
+Added future plans
