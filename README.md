@@ -76,3 +76,4 @@ Updated research notes
 Added automation ideas
 Learned scripting basics
 Added future plans
+Updated repository structure
